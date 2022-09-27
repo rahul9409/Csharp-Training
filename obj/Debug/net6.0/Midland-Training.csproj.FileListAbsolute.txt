@@ -1,0 +1,15 @@
+C:\Users\91952\Desktop\Midland-Training\bin\Debug\net6.0\Midland-Training.exe
+C:\Users\91952\Desktop\Midland-Training\bin\Debug\net6.0\Midland-Training.deps.json
+C:\Users\91952\Desktop\Midland-Training\bin\Debug\net6.0\Midland-Training.runtimeconfig.json
+C:\Users\91952\Desktop\Midland-Training\bin\Debug\net6.0\Midland-Training.dll
+C:\Users\91952\Desktop\Midland-Training\bin\Debug\net6.0\Midland-Training.pdb
+C:\Users\91952\Desktop\Midland-Training\obj\Debug\net6.0\Midland-Training.csproj.AssemblyReference.cache
+C:\Users\91952\Desktop\Midland-Training\obj\Debug\net6.0\Midland-Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91952\Desktop\Midland-Training\obj\Debug\net6.0\Midland-Training.AssemblyInfoInputs.cache
+C:\Users\91952\Desktop\Midland-Training\obj\Debug\net6.0\Midland-Training.AssemblyInfo.cs
+C:\Users\91952\Desktop\Midland-Training\obj\Debug\net6.0\Midland-Training.csproj.CoreCompileInputs.cache
+C:\Users\91952\Desktop\Midland-Training\obj\Debug\net6.0\Midland-Training.dll
+C:\Users\91952\Desktop\Midland-Training\obj\Debug\net6.0\refint\Midland-Training.dll
+C:\Users\91952\Desktop\Midland-Training\obj\Debug\net6.0\Midland-Training.pdb
+C:\Users\91952\Desktop\Midland-Training\obj\Debug\net6.0\Midland-Training.genruntimeconfig.cache
+C:\Users\91952\Desktop\Midland-Training\obj\Debug\net6.0\ref\Midland-Training.dll
