@@ -86,37 +86,49 @@
 // }
 
 
-////  classes and objects   //////
-// class Car 
-// {
-//       public string color;
-//       public string model;
-//       public int year;
-//       public Car(string color,string model,int year){
-//         this.color=color;
-//         this.model=model;
-//         this.year=year;
-//       }
-// }
-// class Program
-// {
-//   static void Main(string[] args)
-//   {
-//     Car myObj = new Car("Red","Swift",2012);
-//     Console.WriteLine(myObj.color);
-//   }
-// }
+////  classes and objects   //////\
+class Vehical {
+     public string color="";
+      public string model="";
+      public int year;
+}
+class Car : Vehical 
+{
+     
+      public Car(string color,string model,int year){
+        this.color=color;
+        this.model=model;
+        this.year=year;
+      }
+}
+class Program
+{
+  static void Main(string[] args)
+  {
+    Car myObj = new Car("Red","Swift",2012);
+    Console.WriteLine(myObj.color);
+  }
+}
 
 
 ////////   LINQS   /////
-var a1=new List<int>{1,3,8,2,6,33,53,21};
-var nums=from i in a1 where i%3==0 select i;
-Console.WriteLine("Numbers divisible by 3");
-foreach(var j in nums){
-Console.WriteLine(j);
-}
-
-var nums1=a1.TakeWhile(n=>n<6);
-foreach(var j in nums1){
-    Console.WriteLine(j);
-}
+// var a1=new List<int>{1,3,8,2,6,33,53,21};
+// var a2=new List<int>{2,5,7,4,9,12};
+// var nums=from i in a1 where i%3==0 where i<=21 orderby i select i;
+// Console.WriteLine("Numbers divisible by 3");
+// foreach(var j in nums){
+// Console.WriteLine(j);
+// }
+// Console.WriteLine("First numbers less than 6");
+// var nums1=a1.TakeWhile(n=>n<6);
+// foreach(var j in nums1){
+//     Console.WriteLine(j);
+// }
+// Console.WriteLine("Paires where a1 has lesss value then a2");
+// var p=from n1 in a1
+//       from n2 in a2
+//       where n1<n2
+//       select(n1,n2);
+// foreach(var p1 in p){
+//     Console.WriteLine($"{p1.n1},{p1.n2}");
+// }
